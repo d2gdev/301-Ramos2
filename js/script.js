@@ -426,7 +426,7 @@ $document.ready(function () {
   if (plugins.rdGoogleMaps.length) {
     var i;
 
-    $.getScript("//https://maps.googleapis.com/maps/api/staticmap?center=45,10&zoom=7&size=400x400&key=AIzaSyCrguf8h_MmiSxE9DjjE2m8R59UL9nZoMk&sensor=false&libraries=geometry,places&v=3.7", function () {
+    $.getScript("//maps.googleapis.com/maps/api/staticmap?center=45,10&zoom=7&size=400x400&key=AIzaSyCrguf8h_MmiSxE9DjjE2m8R59UL9nZoMk&sensor=false&libraries=geometry,places&v=3.7", function () {
       var head = document.getElementsByTagName('head')[0],
           insertBefore = head.insertBefore;
 
