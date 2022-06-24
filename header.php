@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" class="wide wow-animation smoothscroll">
+<html lang="en-ca" class="wide wow-animation smoothscroll">
   <head>
     <!-- Site Title-->
     <title>Home</title>
@@ -34,7 +34,7 @@
                         <!-- RD Navbar Toggle-->
                         <button data-rd-navbar-toggle=".rd-navbar-nav-wrap" class="rd-navbar-toggle"><span></span></button>
                         <!-- RD Navbar Brand--><a href="index.html" class="rd-navbar-brand brand">
-                          <div class="brand-logo"><img src="images/brand-fire.png" alt="" width="154" height="48"/>
+                          <div class="brand-logo"><img src="images/brand-fire.png" alt="Cebu City Bar Happy Hour at 301 Ramos" width="282" height="100"/>
                           </div></a>
                       </div>
                       <div class="rd-navbar-aside-right">
@@ -52,7 +52,7 @@
                             <div class="unit unit-horizontal unit-middle unit-spacing-xs">
                               <div class="unit-left"><span class="icon icon-circle icon-primary-lighter icon-xxs mdi mdi-phone text-middle"></span></div>
                               <div class="unit-body">
-                                <address class="contact-info"><a href="callto:+63323459986" class="link-gray-light-1 link-xs link-fixed-color">(032) 345 9986</a><span class="reveal-block text-gray-light-1 link-xs link-fixed-color">Mon – Sat: 9:00–02:00</span></address>
+                                <address class="contact-info"><a href="callto:+63323459986" class="link-gray-light-1 link-xs link-fixed-color">(032) 345 9986</a><span class="reveal-block text-gray-light-1 link-xs link-fixed-color">Daily: 9:00–02:00</span></address>
                               </div>
                             </div>
                           </li>
@@ -147,7 +147,7 @@
                         <div class="unit unit-horizontal unit-middle unit-spacing-xs">
                           <div class="unit-left"><span class="icon icon-circle icon-primary-lighter icon-xxs mdi mdi-map-marker text-middle"></span></div>
                           <div class="unit-body">
-                            <address class="contact-info"><a href="contact.html" class="link-gray-light-1 link-xs link-fixed-color">301 Ramos Street <br class="visible-md visible-lg"Cebu City, Cebu 6000</a></address>
+                            <address class="contact-info"><a href="contact.html" class="link-gray-light-1 link-xs link-fixed-color">301 Ramos Street <br class="visible-md visible-lg">Cebu City, Cebu 6000</a></address>
                           </div>
                         </div>
                       </li>
@@ -155,7 +155,7 @@
                         <div class="unit unit-horizontal unit-middle unit-spacing-xs">
                           <div class="unit-left"><span class="icon icon-circle icon-primary-lighter icon-xxs mdi mdi-phone text-middle"></span></div>
                           <div class="unit-body">
-                            <address class="contact-info"><a href="callto:+63323459986" class="link-gray-light-1 link-xs link-fixed-color">032-345-9986</a><span class="reveal-block text-gray-light-1 link-xs link-fixed-color">Mon – Sat: 9:00–02:00</span></address>
+                            <address class="contact-info"><a href="callto:+63323459986" class="link-gray-light-1 link-xs link-fixed-color">032-345-9986</a><span class="reveal-block text-gray-light-1 link-xs link-fixed-color">Daily: 9:00–02:00</span></address>
                           </div>
                         </div>
                       </li>
