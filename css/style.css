@@ -9992,12 +9992,12 @@ h1 .label-custom, h2 .label-custom, h3 .label-custom, h4 .label-custom, h5 .labe
   font-size: 95px;
 }
 
-.label-price h1:before {
+/*.label-price h1:before {
   content: "$";
   display: inline-block;
   font-size: 36px;
   vertical-align: super;
-}
+}*/
 
 .label-price .h3 {
   font-size: 55px;
