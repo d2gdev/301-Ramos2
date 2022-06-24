@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-ca" class="wide wow-animation smoothscroll">
+<html lang="en" class="wide wow-animation smoothscroll">
   <head>
     <!-- Site Title-->
     <title>Home</title>
@@ -11,10 +11,10 @@
     <!-- Stylesheets-->
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Changa+One:400,400i%7CGrand+Hotel%7CLato:300,400,400italic,700">
     <link rel="stylesheet" href="css/style.css">
-		<!--[if lt IE 10]>
+    <!--[if lt IE 10]>
     <div style="background: #212121; padding: 10px 0; box-shadow: 3px 3px 5px 0 rgba(0,0,0,.3); clear: both; text-align:center; position: relative; z-index:1;"><a href="http://windows.microsoft.com/en-US/internet-explorer/"><img src="images/ie8-panel/warning_bar_0000_us.jpg" border="0" height="42" width="820" alt="You are using an outdated browser. For a faster, safer browsing experience, upgrade for free today."></a></div>
     <script src="js/html5shiv.min.js"></script>
-		<![endif]-->
+    <![endif]-->
   </head>
   <body>
     <!-- Page-->
@@ -34,7 +34,7 @@
                         <!-- RD Navbar Toggle-->
                         <button data-rd-navbar-toggle=".rd-navbar-nav-wrap" class="rd-navbar-toggle"><span></span></button>
                         <!-- RD Navbar Brand--><a href="index.html" class="rd-navbar-brand brand">
-                          <div class="brand-logo"><img src="images/brand-fire.png" alt="Cebu City Bar Happy Hour at 301 Ramos" width="282" height="100"/>
+                          <div class="brand-logo"><img src="images/brand-fire.png" alt="" width="154" height="48"/>
                           </div></a>
                       </div>
                       <div class="rd-navbar-aside-right">
@@ -124,21 +124,6 @@
                       </ul>
                     </li>
                     <li><a href="contacts.html">Contacts</a>
-                    </li>
-                    <li><a href="#">News</a>
-                      <!-- RD Navbar Dropdown-->
-                      <ul class="rd-navbar-dropdown">
-                        <li><a href="blog-classic.html">Classic Blog</a>
-                        </li>
-                        <li><a href="blog-grid.html">Grid Blog</a>
-                        </li>
-                        <li><a href="blog-masonry.html">Masonry Blog</a>
-                        </li>
-                        <li><a href="blog-modern.html">Modern Blog</a>
-                        </li>
-                        <li><a href="blog-post.html">Single Post</a>
-                        </li>
-                      </ul>
                     </li>
                   </ul>
                   <div class="rd-navbar-aside-right">
