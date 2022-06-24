@@ -9907,7 +9907,7 @@ html.lt-ie-10 .range > [class*="cell-lg-preffix-"] {
   }
 }
 
-.label {
+/*.label {
   padding: 0.2em 0.6em 0.2em;
 }
 
@@ -9921,7 +9921,7 @@ html.lt-ie-10 .range > [class*="cell-lg-preffix-"] {
   font-style: italic;
   white-space: nowrap;
   transition: .3s;
-}
+}*/
 
 h1 .label-custom, h2 .label-custom, h3 .label-custom, h4 .label-custom, h5 .label-custom, h6 .label-custom, p .label-custom {
   margin-left: 10px;
