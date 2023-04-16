@@ -1,26 +1,21 @@
-#EXTM3U
-
+#EXTM3U8
 #EXTINF:-1,Sports: Computer 1
-tvg-logo "raw.githubusercontent.com/d2gdev/301-Ramos2/main/images/301-Ramos-Picon.png"
 http://192.168.1.208:8235/hls/hd-live.m3u8
 #EXTINF:-1,Sports: Computer 2
-tvg-logo "raw.githubusercontent.com/d2gdev/301-Ramos2/main/images/301-Ramos-Picon.png"
 http://192.168.1.218:8235/hls/hd-live.m3u8
 #EXTINF:-1,Sports: Computer 3
-tvg-logo "raw.githubusercontent.com/d2gdev/301-Ramos2/main/images/301-Ramos-Picon.png"
 http://192.168.1.228:8235/hls/hd-live.m3u8
 #EXTINF:-1,Sports: Computer 4
-tvg-logo "raw.githubusercontent.com/d2gdev/301-Ramos2/main/images/301-Ramos-Picon.png"
 http://192.168.1.238:8235/hls/hd-live.m3u8
 #EXTINF:-1,Sports: Computer 5
-tvg-logo "raw.githubusercontent.com/d2gdev/301-Ramos2/main/images/301-Ramos-Picon.png"
 http://192.168.1.248:8235/hls/hd-live.m3u8
 #EXTINF:-1,Sports: Computer 6
-tvg-logo "raw.githubusercontent.com/d2gdev/301-Ramos2/main/images/301-Ramos-Picon.png"
 http://192.168.1.258:8235/hls/hd-live.m3u8
 #EXTINF:-1,Sports: Computer 7
-tvg-logo "raw.githubusercontent.com/d2gdev/301-Ramos2/main/images/301-Ramos-Picon.png"
 http://192.168.1.268:8235/hls/hd-live.m3u8
 #EXTINF:-1,Sports: Computer 8
-tvg-logo "raw.githubusercontent.com/d2gdev/301-Ramos2/main/images/301-Ramos-Picon.png"
 http://192.168.1.278:8235/hls/hd-live.m3u8
+#EXTINF:-1 tvg-id="301Ramos.com" 
+tvg-logo="https://raw.githubusercontent.com/d2gdev/301-Ramos2/main/images/301-Ramos-Picon.png" 
+group-title="301 Ramos",Computer 2
+http://192.168.1.218:8235/hls/hd-live.m3u8
