@@ -15,7 +15,3 @@ http://192.168.1.258:8235/hls/hd-live.m3u8
 http://192.168.1.268:8235/hls/hd-live.m3u8
 #EXTINF:-1,Sports: Computer 8
 http://192.168.1.278:8235/hls/hd-live.m3u8
-#EXTINF:-1 tvg-id="301Ramos.com" 
-tvg-logo="https://raw.githubusercontent.com/d2gdev/301-Ramos2/main/images/301-Ramos-Picon.png" 
-group-title="301 Ramos",Computer 2
-http://192.168.1.218:8235/hls/hd-live.m3u8
