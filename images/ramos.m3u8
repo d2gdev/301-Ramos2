@@ -1,0 +1,18 @@
+#EXTM3U
+
+#EXTINF:-1,Sports: Computer 1
+http://192.168.1.208:8235/hls/hd-live.m3u8
+#EXTINF:-1,Sports: Computer 2
+http://192.168.1.218:8235/hls/hd-live.m3u8
+#EXTINF:-1,Sports: Computer 3
+http://192.168.1.228:8235/hls/hd-live.m3u8
+#EXTINF:-1,Sports: Computer 4
+http://192.168.1.238:8235/hls/hd-live.m3u8
+#EXTINF:-1,Sports: Computer 5
+http://192.168.1.248:8235/hls/hd-live.m3u8
+#EXTINF:-1,Sports: Computer 6
+http://192.168.1.258:8235/hls/hd-live.m3u8
+#EXTINF:-1,Sports: Computer 7
+http://192.168.1.268:8235/hls/hd-live.m3u8
+#EXTINF:-1,Sports: Computer 8
+http://192.168.1.278:8235/hls/hd-live.m3u8
